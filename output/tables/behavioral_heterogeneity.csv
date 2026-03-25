@@ -1,0 +1,28 @@
+="Behavioural Heterogeneity Tests"
+
+="",="(1)",="(2)"
+="",="Education",="Age 70+"
+
+="claim_age_c62",="-0.00499",="-0.0119"
+="",="(0.0119)",="(0.0154)"
+
+="1.educ_col_plus",="0.180**",=""
+="",="(0.0655)",=""
+
+="1.educ_col_plus#c.claim_age_c62",="-0.00911",=""
+="",="(0.0198)",=""
+
+="1.age_70plus",="",="-0.110"
+="",="",="(0.0573)"
+
+="1.age_70plus#c.claim_age_c62",="",="0.00384"
+="",="",="(0.0166)"
+
+="N",="19032",="19032"
+="r2_a",="0.179",="0.179"
+
+="Standard errors in parentheses"
+="Tests if claiming age effect varies by behavioural proxies"
+="College = proxy for financial literacy"
+="Age 70+ = proxy for shorter remaining time horizon"
+="* p<0.05, ** p<0.01, *** p<0.001"

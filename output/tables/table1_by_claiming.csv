@@ -1,0 +1,192 @@
+
+="",="(1)"
+="",=""
+
+="Early(62-63)",=""
+="rassageb: age r start rec. socsec",="62.42"
+="",="(0.469)"
+
+="Age at interview",="68.45"
+="",="(4.195)"
+
+="Female",="0.563"
+="",="(0.496)"
+
+="Black",="0.151"
+="",="(0.358)"
+
+="Hispanic",="0.0972"
+="",="(0.296)"
+
+="Education: College+",="0.188"
+="",="(0.391)"
+
+="Currently married/partnered",="0.708"
+="",="(0.455)"
+
+="shlt",="2.769"
+="",="(1.011)"
+
+="Fair/poor self-rated health",="0.237"
+="",="(0.425)"
+
+="Number of health conditions",="2.133"
+="",="(1.360)"
+
+="Subjective P(survive to 75)",="64.74"
+="",="(26.92)"
+
+="hh_income",="58746.8"
+="",="(121055.0)"
+
+="hh_assets",="511707.8"
+="",="(953311.0)"
+
+="life_sat",="4.901"
+="",="(1.400)"
+
+="fin_strain",="1.600"
+="",="(0.887)"
+
+="FRA(64-66)",=""
+="rassageb: age r start rec. socsec",="65.26"
+="",="(0.659)"
+
+="Age at interview",="69.51"
+="",="(3.332)"
+
+="Female",="0.496"
+="",="(0.500)"
+
+="Black",="0.139"
+="",="(0.346)"
+
+="Hispanic",="0.105"
+="",="(0.306)"
+
+="Education: College+",="0.311"
+="",="(0.463)"
+
+="Currently married/partnered",="0.695"
+="",="(0.461)"
+
+="shlt",="2.629"
+="",="(0.988)"
+
+="Fair/poor self-rated health",="0.182"
+="",="(0.386)"
+
+="Number of health conditions",="2.047"
+="",="(1.319)"
+
+="Subjective P(survive to 75)",="63.91"
+="",="(24.54)"
+
+="hh_income",="85293.0"
+="",="(169453.9)"
+
+="hh_assets",="741142.6"
+="",="(1604769.1)"
+
+="life_sat",="5.021"
+="",="(1.410)"
+
+="fin_strain",="1.528"
+="",="(0.824)"
+
+="Delayed(67+)",=""
+="rassageb: age r start rec. socsec",="68.02"
+="",="(1.002)"
+
+="Age at interview",="71.49"
+="",="(3.132)"
+
+="Female",="0.461"
+="",="(0.499)"
+
+="Black",="0.125"
+="",="(0.331)"
+
+="Hispanic",="0.139"
+="",="(0.347)"
+
+="Education: College+",="0.471"
+="",="(0.500)"
+
+="Currently married/partnered",="0.704"
+="",="(0.457)"
+
+="shlt",="2.613"
+="",="(0.949)"
+
+="Fair/poor self-rated health",="0.161"
+="",="(0.368)"
+
+="Number of health conditions",="2.093"
+="",="(1.325)"
+
+="Subjective P(survive to 75)",="10"
+="",="(.)"
+
+="hh_income",="127045.5"
+="",="(302647.9)"
+
+="hh_assets",="1322802.1"
+="",="(2716653.6)"
+
+="life_sat",="5.312"
+="",="(1.371)"
+
+="fin_strain",="1.498"
+="",="(0.852)"
+
+="Total",=""
+="rassageb: age r start rec. socsec",="63.59"
+="",="(1.678)"
+
+="Age at interview",="68.92"
+="",="(3.947)"
+
+="Female",="0.536"
+="",="(0.499)"
+
+="Black",="0.146"
+="",="(0.353)"
+
+="Hispanic",="0.101"
+="",="(0.302)"
+
+="Education: College+",="0.241"
+="",="(0.427)"
+
+="Currently married/partnered",="0.703"
+="",="(0.457)"
+
+="shlt",="2.715"
+="",="(1.003)"
+
+="Fair/poor self-rated health",="0.215"
+="",="(0.411)"
+
+="Number of health conditions",="2.102"
+="",="(1.346)"
+
+="Subjective P(survive to 75)",="64.67"
+="",="(26.90)"
+
+="hh_income",="70255.0"
+="",="(149753.6)"
+
+="hh_assets",="618853.0"
+="",="(1317422.5)"
+
+="life_sat",="4.957"
+="",="(1.405)"
+
+="fin_strain",="1.569"
+="",="(0.864)"
+
+="Observations",="8049"
+
+="mean coefficients; sd in parentheses"
+="* p<0.05, ** p<0.01, *** p<0.001"

@@ -1,0 +1,6 @@
+Model,Coefficient,SE,N,N_groups,Note
+Standard RE,-0.0069,0.0078,19032,8032,Unweighted with cluster SE
+CRE (Mundlak),-0.0067,0.0077,19032,8032,Adds person-means of time-varying covariates
+Hausman test F,.,,,,Joint test of person-means
+Hausman test p,0.0000,,,,p < 0.05 suggests RE violated
+Note: xtreg does not support pweights; estimates are unweighted with cluster-robust SEs,,,,,

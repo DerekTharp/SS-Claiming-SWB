@@ -1,0 +1,18 @@
+Parameter,Value
+Income-SWB gradient (b),0.0897
+Income-SWB gradient (SE),0.0177
+Income-SWB gradient (p),0.0000
+First-stage: claim_age -> ln_income (b),0.0703
+First-stage: claim_age -> ln_income (SE),0.0060
+First-stage: claim_age -> ln_income (p),0.0000
+8-year delay income effect (log points),0.5621
+Expected SWB effect of 8-year delay (points),0.0504
+Expected SWB effect of 8-year delay (SD),0.0356
+Main spec claiming age (b),-0.0085
+Main spec claiming age (SE),0.0096
+MDES per year (80% power),0.0270
+MDES 8-year delay (80% power),0.2159
+MDES 8-year delay (SD),0.1524
+Ratio (expected / MDES),0.23
+Life satisfaction SD,1.416
+N,19032

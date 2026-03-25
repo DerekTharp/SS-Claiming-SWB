@@ -1,0 +1,21 @@
+="Married Subgroup Analysis"
+
+="",="(1)"
+="",="life_sat"
+
+="claim_age_c62",="0.0277"
+="",="(0.0175)"
+
+="1.married",="0.605***"
+="",="(0.0491)"
+
+="1.married#c.claim_age_c62",="-0.0547**"
+="",="(0.0202)"
+
+="N",="19032"
+="r2_a",="0.177"
+
+="Standard errors in parentheses"
+="Interaction tests whether claiming age effect differs by marital status"
+="Potential mechanism: spousal coordination, retirement-claiming linkage"
+="* p<0.05, ** p<0.01, *** p<0.001"

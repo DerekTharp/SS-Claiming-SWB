@@ -1,0 +1,12 @@
+="Equivalence Testing (TOST): 8-Year Delay Effect"
+
+="Parameter","Value","Interpretation"
+="Point estimate (SD)","-0.0479","8-year delay effect in SD units"
+="90% CI Lower","-0.1375","Lower bound for equivalence test"
+="90% CI Upper","0.0416","Upper bound for equivalence test"
+="95% CI Lower","-0.1546","Lower bound for significance"
+="95% CI Upper","0.0588","Upper bound for significance"
+="Equivalence bounds","+-.1 SD","Conventional small effect threshold"
+="N","19032",""
+
+="Note: Asymmetry suggests we can rule out BENEFITS of delay but not HARMS"

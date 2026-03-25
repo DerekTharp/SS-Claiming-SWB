@@ -1,0 +1,6 @@
+Model,Controls,Coefficient,SE,Pct_Raw_Absorbed,R2,N
+1,None (raw),0.0439,0.0105,0.0,0.0027,19032
+2,Demographics + wave FE,0.0116,0.0107,73.6,0.0465,19032
+3,Health only,0.0153,0.0095,65.2,0.1145,19032
+4,Demographics + Health + wave FE,-0.0086,0.0098,119.5,0.1480,19032
+5,Full primary (Total Effect),-0.0085,0.0096,119.3,0.1802,19032

@@ -1,0 +1,15 @@
+="Claiming Age Effect: Full Sample vs Age 70+ Restricted"
+
+="",="(1)",="(2)"
+="",="Full Sample",="Age 70+ Only"
+
+="claim_age_c62",="-0.00848",="-0.00553"
+="",="(0.00964)",="(0.0108)"
+
+="N",="19032",="13153"
+="r2_a",="0.179",="0.175"
+
+="Standard errors in parentheses"
+="Age 70+ sample provides cleaner 'benefit level' interpretation"
+="All models use Total Effect controls with person-clustered SEs"
+="* p<0.05, ** p<0.01, *** p<0.001"

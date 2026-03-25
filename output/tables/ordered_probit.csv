@@ -1,0 +1,4 @@
+Model,Coefficient,SE,p-value,N
+OLS,-0.0085,0.0096,0.3787,19032
+Ordered Probit,-0.0070,0.0080,0.3803,19032
+Note: Life satisfaction scale [1-7]. Both models use primary controls + wave FE with cluster SEs.,,,,

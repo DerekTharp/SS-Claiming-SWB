@@ -1,0 +1,5 @@
+Variable,Model,Coefficient,SE,p,N,Mean,SD
+Financial satisfaction,Unadjusted,0.0287,0.0077,0.0002,18703,3.564,1.064
+Financial satisfaction,Adjusted,-0.0080,0.0074,0.2778,18703,3.564,1.064
+Income satisfaction,Unadjusted,0.0335,0.0088,0.0001,11948,3.514,1.106
+Income satisfaction,Adjusted,-0.0058,0.0086,0.5040,11948,3.514,1.106

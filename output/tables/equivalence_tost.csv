@@ -1,0 +1,14 @@
+="Equivalence Testing (TOST): 8-Year Delay Effect"
+
+="Parameter","Value"
+="Beta (8-year delay, raw)","-0.0679"
+="SE (8-year delay)","0.0771"
+="Beta (8-year delay, SD units)","-0.0479"
+="Equivalence bounds (SD)","+-.1"
+="TOST p-value","0.9967"
+="90% CI lower (SD)","-0.1375"
+="90% CI upper (SD)","0.0416"
+="N","19032"
+
+="Note: TOST tests whether 8-year delay effect is within +-.1 SD of zero"
+="Equivalence demonstrated if TOST p < 0.05 or 90% CI within bounds"
